@@ -1,0 +1,1 @@
+_Convertidor de base totalmente funcional, hecho por Javier Márquez y Victor Mardones._
